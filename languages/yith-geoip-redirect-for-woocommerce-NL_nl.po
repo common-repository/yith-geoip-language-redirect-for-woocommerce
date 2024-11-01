@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH GeoIP Redirect for WooCommerce\n"
+"POT-Creation-Date: 2018-02-01 13:45+0000\n"
+"PO-Revision-Date: 2018-02-01 15:45+0000\n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,"
+"_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:104
+msgctxt "tab name"
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:188
+msgctxt "select item type"
+msgid "Custom URL"
+msgstr "Custom URL"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:193
+msgctxt "select item type"
+msgid "Custom URL (regex)"
+msgstr "Aangepaste URL (regex)"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:205
+msgctxt "select item type"
+msgid "Entire website"
+msgstr "Gehele website"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:256
+msgctxt ""
+"add name taxonomy to on type select to understand better the item to select"
+msgid "Post"
+msgstr "Post"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:258
+msgctxt ""
+"add name taxonomy to on type select to understand better the item to select"
+msgid "Product"
+msgstr "Product"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:291
+msgctxt ""
+msgid "Types"
+msgstr "Types"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:296
+msgctxt ""
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: includes/class.yith-geoip-language-redirect-admin-premium.php:302
+msgctxt ""
+msgid "Archives"
+msgstr "Archieven"
+
+#: includes/class.yith-geoip-language-redirect-admin.php:107
+msgctxt "shortened plugin name"
+msgid "GeoIP Language Redirect"
+msgstr "GeoIP Language Redirect"
+
+#: includes/class.yith-geoip-language-redirect-admin.php:110
+msgctxt "tab name"
+msgid "Rules"
+msgstr "Regels"
+
+#: includes/class.yith-geoip-language-redirect-admin.php:148
+msgid "Plugin documentation"
+msgstr "Plugin documentatie"
+
+#: includes/class.yith-geoip-language-redirect-admin.php:152
+msgid "Help Center"
+msgstr "Helpcentrum"
+
+#: includes/functions.yith-wcgeoip-premium.php:13
+msgid "Device"
+msgstr "Apparaat"
+
+#: includes/functions.yith-wcgeoip-premium.php:13
+msgid ""
+"Choose the\n"
+"                device(s) on which the rule applies"
+msgstr ""
+"Kies de \n"
+"apparaten waar deze regel op van toepassing is"
+
+#: includes/functions.yith-wcgeoip-premium.php:20
+msgctxt "select item type"
+msgid "All"
+msgstr "Alle"
+
+#: includes/functions.yith-wcgeoip-premium.php:21
+msgctxt "select item type"
+msgid "Specific"
+msgstr "Specifiek"
+
+#: includes/functions.yith-wcgeoip-premium.php:22
+msgctxt "select item type"
+msgid "Archive"
+msgstr "Archief"
+
+#: includes/functions.yith-wcgeoip-premium.php:172
+msgctxt "Define the device on which the rules will apply"
+msgid "All devices"
+msgstr "Alle Apparaten"
+
+#: includes/functions.yith-wcgeoip-premium.php:178
+msgctxt "Define the device on which the rules will apply"
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: includes/functions.yith-wcgeoip-premium.php:183
+msgctxt "Define the device on which the rules will apply"
+msgid "Desktop"
+msgstr "Bureaublad"
+
+#: includes/functions.yith-wcgeoip.php:45
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Found"
+msgstr "Gevonden"
+
+#: includes/functions.yith-wcgeoip.php:51
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Multiple choice"
+msgstr "Meerdere opties"
+
+#: includes/functions.yith-wcgeoip.php:57
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Moved Permanently"
+msgstr "Permanent verplaatst"
+
+#: includes/functions.yith-wcgeoip.php:63
+msgctxt "HTTP Status code, no transalation needed"
+msgid "See Other"
+msgstr "Zie Andere"
+
+#: includes/functions.yith-wcgeoip.php:69
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Not Modified"
+msgstr "Niet aangepast"
+
+#: includes/functions.yith-wcgeoip.php:75
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Use Proxy"
+msgstr "Gebruik Proxy"
+
+#: includes/functions.yith-wcgeoip.php:81
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Switch Proxy"
+msgstr "Wissel Proxy"
+
+#: includes/functions.yith-wcgeoip.php:87
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Temporary Redirect"
+msgstr "Tijdelijke Omleiding"
+
+#: includes/functions.yith-wcgeoip.php:93
+msgctxt "HTTP Status code, no transalation needed"
+msgid "Permanent Redirect"
+msgstr "Permanente Omleiding"
+
+#: templates/admin/rule-row.php:94
+msgid "Remove"
+msgstr "Verwijder"
+
+#: templates/admin/rules-panel.php:16
+msgid "Country"
+msgstr "Land"
+
+#: templates/admin/rules-panel.php:17
+msgid "Country excluded"
+msgstr "Land uitgesloten"
+
+#: templates/admin/rules-panel.php:18
+msgid "Exclude the selected country and apply the rule to all other countries"
+msgstr ""
+"Sluit het geselecteerde land uit en pas de regel toe op alle andere landen"
+
+#: templates/admin/rules-panel.php:20
+msgid "Origin"
+msgstr "Oorsprong"
+
+#: templates/admin/rules-panel.php:21
+msgid "Destination"
+msgstr "Bestemming"
+
+#: templates/admin/rules-panel.php:22
+msgid "HTTP Status Code"
+msgstr "HTTP Status Code"
+
+#: templates/admin/rules-panel.php:23
+msgid "First time redirect"
+msgstr "Eerste keer omleiding"
+
+#: templates/admin/rules-panel.php:24
+msgid ""
+"Check this if you want to redirect users only the first time they visit the "
+"URL. No redirect will be performed until the cookie expires"
+msgstr ""
+"Vink dit aan als u gebruikers alleen wilt doorsturen als ze de URL voor het "
+"eerst bezoeken. Er wordt geen omleiding uitgevoerd totdat de cookie verloopt"
+
+#: templates/admin/rules-panel.php:27
+msgid "Actions"
+msgstr "Acties"
+
+#: templates/admin/rules-panel.php:48
+msgid "New rule"
+msgstr "Nieuwe regel"
+
+#: templates/admin/rules-panel.php:53
+msgid "Save rules"
+msgstr "Bewaar regels"
+
+#: templates/admin/settings-panel.php:6
+msgid "Exclude IP"
+msgstr "IP Uitsluiten"
+
+#: templates/admin/settings-panel.php:28
+msgid "Add"
+msgstr "Voeg toe"
+
+#: templates/admin/settings-panel.php:32
+msgid "List of IPs that will be ignored by the rules..."
+msgstr "Lijst met IP's die worden genegeerd door de regels..."
+
+#: templates/admin/settings-panel.php:44
+msgid "Remove excluded IP"
+msgstr "Verwijder uitgesloten IP"
+
+#: templates/admin/settings-panel.php:58
+msgid "Cookie duration"
+msgstr "Duur van de cookie"
+
+#: templates/admin/settings-panel.php:66
+msgid "1 min."
+msgstr "1 min."
+
+#: templates/admin/settings-panel.php:69
+msgid "2 min."
+msgstr "2 min."
+
+#: templates/admin/settings-panel.php:72
+msgid "10 min."
+msgstr "10 min."
+
+#: templates/admin/settings-panel.php:75
+msgid "15 min."
+msgstr "15 min."
+
+#: templates/admin/settings-panel.php:78
+msgid "20 min."
+msgstr "20 min."
+
+#: templates/admin/settings-panel.php:81
+msgid "30 min."
+msgstr "30 min."
+
+#: templates/admin/settings-panel.php:84
+msgid "45 min."
+msgstr "45 min."
+
+#: templates/admin/settings-panel.php:87
+msgid "1 hour"
+msgstr "1 hour"
+
+#: templates/admin/settings-panel.php:90
+msgid "2 hours"
+msgstr "2 hours"
+
+#: templates/admin/settings-panel.php:98
+msgid "Save changes"
+msgstr "Bewaar aanpassingen"
